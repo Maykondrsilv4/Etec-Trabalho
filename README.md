@@ -1,2 +1,2 @@
 # Aula de Variveis
-Aula passada pelo professor Wagner
+Calculadora simples apenas para praticar.
